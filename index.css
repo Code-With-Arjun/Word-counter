@@ -1,0 +1,15 @@
+
+h1{
+     /* border: 2px solid grey; */
+   
+    background-color: rgba(128, 128, 128, 0.178); 
+}
+.form-floating{
+    width: 50%;
+    margin: auto;
+  
+}
+p{
+    border: 1px solid salmon;
+    background-color: aquamarine;
+}
